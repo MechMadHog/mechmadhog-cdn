@@ -5,35 +5,35 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/EaVmymK",
       "certificate": "Responsive Web Design",
       "section": "1. \ud83e\uddfe Survey Form",
-      "type": "unknown",
-      "origin": "FCC Survey Form.",
+      "type": "HTML & CSS",
+      "origin": "FCC - 1.3 Coloured Markers",
       "id": "markers"
     },
     {
-      "title": "Menu",
+      "title": "Mac's Wrap Shack",
       "url": "https://codepen.io/Mike-MacDonagh/pen/raOybGY",
       "certificate": "Responsive Web Design",
       "section": "1. \ud83e\uddfe Survey Form",
-      "type": "unknown",
-      "origin": "FCC Survey Form.",
+      "type": "HTML & CSS",
+      "origin": "FCC - 1.2 Café Menu",
       "id": "menu"
     },
     {
-      "title": "Photo App",
+      "title": "Stoic Philosohers Photo App",
       "url": "https://codepen.io/Mike-MacDonagh/pen/yyYMrMM",
       "certificate": "Responsive Web Design",
       "section": "1. \ud83e\uddfe Survey Form",
-      "type": "unknown",
-      "origin": "FCC Survey Form.",
+      "type": "HTML & CSS",
+      "origin": "FCC - 1.1 Photo App",
       "id": "photo-app"
     },
     {
-      "title": "Replicant Form",
+      "title": "Replicant Registration Form",
       "url": "https://codepen.io/Mike-MacDonagh/pen/azvwyQq",
       "certificate": "Responsive Web Design",
       "section": "1. \ud83e\uddfe Survey Form",
-      "type": "unknown",
-      "origin": "FCC Survey Form.",
+      "type": "HTML & CSS",
+      "origin": "FCC - 1.4 Registration Form",
       "id": "replicant-form"
     },
     {
@@ -41,8 +41,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/ByoZwao",
       "certificate": "Responsive Web Design",
       "section": "1. \ud83e\uddfe Survey Form",
-      "type": "main",
-      "origin": "FCC Survey Form.",
+      "type": "HTML & CSS",
+      "origin": "FCC - Project 1 - Survey Form",
       "id": "what-kind-of-metal-head-are-you"
     },
     {
@@ -50,8 +50,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/EaVvWwZ",
       "certificate": "Responsive Web Design",
       "section": "2. \ud83c\udfa8 Tribute Page",
-      "type": "unknown",
-      "origin": "FCC Tribute Page.",
+      "type": "HTML & CSS",
+      "origin": "FCC - 2.3 Typography and expanded use of Flex Box",
       "id": "cv"
     },
     {
@@ -59,17 +59,17 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/RNWZrBe",
       "certificate": "Responsive Web Design",
       "section": "2. \ud83c\udfa8 Tribute Page",
-      "type": "unknown",
-      "origin": "FCC Tribute Page.",
+      "type": "HTML & CSS",
+      "origin": "FCC - 2.2 Flex Box Photo Gallery",
       "id": "gallery"
     },
     {
-      "title": "Mondrian",
+      "title": "CSS Mondrian Painting",
       "url": "https://codepen.io/Mike-MacDonagh/pen/pvjwYVY",
       "certificate": "Responsive Web Design",
       "section": "2. \ud83c\udfa8 Tribute Page",
-      "type": "unknown",
-      "origin": "FCC Tribute Page.",
+      "type": "HTML & CSS",
+      "origin": "FCC - Project 2 - Tribute Site for Rodney Mullen",
       "id": "mondrian"
     },
     {
@@ -77,26 +77,26 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/JoYWqdV",
       "certificate": "Responsive Web Design",
       "section": "2. \ud83c\udfa8 Tribute Page",
-      "type": "main",
+      "type": "HTML & CSS",
       "origin": "FCC Tribute Page.",
       "id": "rodney-mullen-the-godfather-of-skate"
     },
     {
-      "title": "Guide",
+      "title": "Calories In vs Out",
       "url": "https://codepen.io/Mike-MacDonagh/pen/YPyEjwb",
       "certificate": "Responsive Web Design",
       "section": "3. \ud83d\udcda Technical Documentation Page",
-      "type": "unknown",
-      "origin": "FCC Technical Docs.",
+      "type": "HTML & CSS",
+      "origin": "FCC - 3.1 CSS Pseudo Selectors Balance Sheet",
       "id": "guide"
     },
     {
-      "title": "Helmet",
+      "title": "The Dented Helmet",
       "url": "https://codepen.io/Mike-MacDonagh/pen/EaVQNQg",
       "certificate": "Responsive Web Design",
       "section": "3. \ud83d\udcda Technical Documentation Page",
-      "type": "unknown",
-      "origin": "FCC Technical Docs.",
+      "type": "HTML & CSS",
+      "origin": "FCC - 3.2 Intermediate CSS - CSS Painting",
       "id": "helmet"
     },
     {
@@ -104,8 +104,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/VYvxzeq",
       "certificate": "Responsive Web Design",
       "section": "3. \ud83d\udcda Technical Documentation Page",
-      "type": "unknown",
-      "origin": "FCC Technical Docs.",
+      "type": "HTML & CSS",
+      "origin": "FCC - 3.3 Responsive Web Design Build",
       "id": "holo-chess"
     },
     {
@@ -113,8 +113,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/EaVRjgM",
       "certificate": "Responsive Web Design",
       "section": "3. \ud83d\udcda Technical Documentation Page",
-      "type": "main",
-      "origin": "FCC Technical Docs.",
+      "type": "HTML & CSS",
+      "origin": "FCC - Project 3 - Technical Documentation Page",
       "id": "yolked-bear-mode-docs"
     },
     {
@@ -122,8 +122,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/KwdxVLM",
       "certificate": "Responsive Web Design",
       "section": "4. \ud83d\udecd\ufe0f Product Landing Page",
-      "type": "unknown",
-      "origin": "FCC Landing Page.",
+      "type": "HTML & CSSn",
+      "origin": "FCC - 4.1 - CSS Variables",
       "id": "desert-scene"
     },
     {
@@ -131,8 +131,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/xbwayEj",
       "certificate": "Responsive Web Design",
       "section": "4. \ud83d\udecd\ufe0f Product Landing Page",
-      "type": "main",
-      "origin": "FCC Landing Page.",
+      "type": "HTML & CSS",
+      "origin": "FCC - Project 4 - Product Landing Page",
       "id": "plumbus-rick-morty-parody"
     },
     {
@@ -140,8 +140,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/raOZZYL",
       "certificate": "Responsive Web Design",
       "section": "4. \ud83d\udecd\ufe0f Product Landing Page",
-      "type": "unknown",
-      "origin": "FCC Landing Page.",
+      "type": "HTML & CSS",
+      "origin": "FCC - 4.2-CSS Grid Magazine",
       "id": "qotsa-spread"
     },
     {
@@ -149,8 +149,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/bNVOrxK",
       "certificate": "Responsive Web Design",
       "section": "5. \ud83d\udc64 Personal Portfolio Page",
-      "type": "main",
-      "origin": "FCC Portfolio Page.",
+      "type": "HTML & CSS",
+      "origin": "FCC - Project 5 - Personal Portfolio Webpage",
       "id": "personal-portfolio-webpage"
     },
     {
@@ -158,8 +158,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/myeQwqe",
       "certificate": "Responsive Web Design",
       "section": "5. \ud83d\udc64 Personal Portfolio Page",
-      "type": "unknown",
-      "origin": "FCC Portfolio Page.",
+      "type": "HTML & CSS",
+      "origin": "FCC - 5.2 CSS Transforms",
       "id": "pumpkin"
     },
     {
@@ -167,8 +167,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/JoYmJmo",
       "certificate": "Responsive Web Design",
       "section": "5. \ud83d\udc64 Personal Portfolio Page",
-      "type": "unknown",
-      "origin": "FCC Portfolio Page.",
+      "type": "HTML & CSS",
+      "origin": "FCC -5.1-CSS Animation",
       "id": "record-spinner"
     },
     {
@@ -176,8 +176,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/RNrwKgP",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "1. \ud83d\udd01 Palindrome Checker",
-      "type": "unknown",
-      "origin": "FCC Palindrome Checker",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 1.5 JS Calorie Counter",
       "id": "calorie-counter"
     },
     {
@@ -185,8 +185,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/wBKZGym",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "1. \ud83d\udd01 Palindrome Checker",
-      "type": "unknown",
-      "origin": "FCC Palindrome Checker",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 1.2 JS Gradebook App",
       "id": "gradebook-app"
     },
     {
@@ -194,8 +194,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/XJXrMGp",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "1. \ud83d\udd01 Palindrome Checker",
-      "type": "unknown",
-      "origin": "FCC Palindrome Checker",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 1.4 JS Background Colour Changer",
       "id": "lightbulb"
     },
     {
@@ -203,8 +203,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/dPGGjRZ",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "1. \ud83d\udd01 Palindrome Checker",
-      "type": "unknown",
-      "origin": "FCC Palindrome Checker",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 1.7 JS Music Player",
       "id": "music-player"
     },
     {
@@ -213,7 +213,7 @@
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "1. \ud83d\udd01 Palindrome Checker",
       "type": "main",
-      "origin": "FCC Palindrome Checker",
+      "origin": "FCC - Project 1 - Palindrome Checker",
       "id": "palindrome-checker"
     },
     {
@@ -221,26 +221,26 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/qEOvBap",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "1. \ud83d\udd01 Palindrome Checker",
-      "type": "unknown",
-      "origin": "FCC Palindrome Checker",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 1.1 JS Pyramid Generator",
       "id": "pyramid-generator"
     },
     {
-      "title": "Rock Paper Scissors",
+      "title": "Philosophy Duel",
       "url": "https://codepen.io/Mike-MacDonagh/pen/bNENBBZ",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "1. \ud83d\udd01 Palindrome Checker",
-      "type": "unknown",
-      "origin": "FCC Palindrome Checker",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 1.6 JS Rock, Paper, Scissors",
       "id": "rock-paper-scissors"
     },
     {
-      "title": "RPG",
+      "title": "Echoes Beyond the Rift",
       "url": "https://codepen.io/Mike-MacDonagh/pen/jEbgZmy",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "1. \ud83d\udd01 Palindrome Checker",
-      "type": "unknown",
-      "origin": "FCC Palindrome Checker",
+      "type": "HTML, CSS & JS",
+      "origin": "1.3 JS Role Playing Game",
       "id": "rpg"
     },
     {
@@ -248,8 +248,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/RNraPar",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "2. \ud83d\udd22 Roman Numeral Converter",
-      "type": "unknown",
-      "origin": "FCC Roman Numeral Converter",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 2.1 JS Date Formatter",
       "id": "date-formatter"
     },
     {
@@ -257,8 +257,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/LEGWaPr",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "2. \ud83d\udd22 Roman Numeral Converter",
-      "type": "unknown",
-      "origin": "FCC Roman Numeral Converter",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 2.4 Binary Converter",
       "id": "decimal-binary-converter"
     },
     {
@@ -266,8 +266,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/RNrRjvQ",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "2. \ud83d\udd22 Roman Numeral Converter",
-      "type": "unknown",
-      "origin": "FCC Roman Numeral Converter",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 2.2 JS Team Cards",
       "id": "montreal-canadiens-cards"
     },
     {
@@ -275,8 +275,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/pvgNprM",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "2. \ud83d\udd22 Roman Numeral Converter",
-      "type": "unknown",
-      "origin": "FCC Roman Numeral Converter",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 2.3 JS To Do App",
       "id": "playlist-maker"
     },
     {
@@ -285,7 +285,7 @@
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "2. \ud83d\udd22 Roman Numeral Converter",
       "type": "main",
-      "origin": "FCC Roman Numeral Converter",
+      "origin": "FCC - Project 2 - Roman Numeral Converter",
       "id": "romanumeral-converter"
     },
     {
@@ -293,26 +293,26 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/LEGzPxY",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "3. \u260e\ufe0f Telephone Number Validator",
-      "type": "unknown",
-      "origin": "FCC Telephone Validator.",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 3.4 Spreadsheet",
       "id": "budget-tracker"
     },
     {
-      "title": "CodePen",
+      "title": "Telephone Number Validator",
       "url": "https://codepen.io/Mike-MacDonagh/pen/zxrPrEE",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "3. \u260e\ufe0f Telephone Number Validator",
       "type": "main",
       "origin": "FCC Telephone Validator.",
-      "id": "codepen"
+      "id": "FCC - Project 3 - Telephone Number Validator"
     },
     {
       "title": "D&D Dice Lab",
       "url": "https://codepen.io/Mike-MacDonagh/pen/PwZjgjZ",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "3. \u260e\ufe0f Telephone Number Validator",
-      "type": "unknown",
-      "origin": "FCC Telephone Validator.",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 3.3 Statistics Calculator",
       "id": "d-d-dice-lab"
     },
     {
@@ -320,8 +320,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/XJXgdPX",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "3. \u260e\ufe0f Telephone Number Validator",
-      "type": "unknown",
-      "origin": "FCC Telephone Validator.",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 3.2 Number Sorter",
       "id": "mixtape-sorter"
     },
     {
@@ -329,26 +329,26 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/ogbWBPV",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "3. \u260e\ufe0f Telephone Number Validator",
-      "type": "unknown",
-      "origin": "FCC Telephone Validator.",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 3.1 Spam Filter",
       "id": "troll-detector"
     },
     {
-      "title": "CodePen",
+      "title": "Cash Register",
       "url": "https://codepen.io/Mike-MacDonagh/pen/dPGJEWa",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "4. \ud83d\udcb0 Cash Register",
       "type": "main",
-      "origin": "FCC Cash Register.",
+      "origin": "FCC - Project 4 - Cash Register",
       "id": "codepen"
     },
     {
-      "title": "Lucky Roll",
+      "title": "Slot Machine",
       "url": "https://codepen.io/Mike-MacDonagh/pen/zxrpXaZ",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "4. \ud83d\udcb0 Cash Register",
-      "type": "unknown",
-      "origin": "FCC Cash Register.",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 4.3 Dice Game",
       "id": "lucky-roll"
     },
     {
@@ -356,8 +356,8 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/myVpmxJ",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "4. \ud83d\udcb0 Cash Register",
-      "type": "unknown",
-      "origin": "FCC Cash Register.",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 4.2 Platformer Game",
       "id": "mouse-maze"
     },
     {
@@ -365,17 +365,17 @@
       "url": "https://codepen.io/Mike-MacDonagh/pen/yyePoMO",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "4. \ud83d\udcb0 Cash Register",
-      "type": "unknown",
-      "origin": "FCC Cash Register.",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 4.1 Shopping Cart",
       "id": "vans-shopping-cart"
     },
     {
-      "title": "Cyberpunk Media Fetch",
+      "title": "Neon Index - Cyberpunk Media Fetch",
       "url": "https://codepen.io/Mike-MacDonagh/pen/jEWZbRQ",
       "certificate": "JavaScript Algorithms and Data Structures",
       "section": "5. \ud83e\uddd9 RPG Creature Search App",
-      "type": "unknown",
-      "origin": "FCC final project (custom expansion).",
+      "type": "HTML, CSS & JS",
+      "origin": "FCC - 5.1 Authors Page",
       "id": "cyberpunk-media-fetch"
     }
   ]
