@@ -1,0 +1,382 @@
+{
+  "projects": [
+    {
+      "title": "Markers",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/EaVmymK",
+      "certificate": "Responsive Web Design",
+      "section": "1. \ud83e\uddfe Survey Form",
+      "type": "unknown",
+      "origin": "FCC Survey Form.",
+      "id": "markers"
+    },
+    {
+      "title": "Menu",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/raOybGY",
+      "certificate": "Responsive Web Design",
+      "section": "1. \ud83e\uddfe Survey Form",
+      "type": "unknown",
+      "origin": "FCC Survey Form.",
+      "id": "menu"
+    },
+    {
+      "title": "Photo App",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/yyYMrMM",
+      "certificate": "Responsive Web Design",
+      "section": "1. \ud83e\uddfe Survey Form",
+      "type": "unknown",
+      "origin": "FCC Survey Form.",
+      "id": "photo-app"
+    },
+    {
+      "title": "Replicant Form",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/azvwyQq",
+      "certificate": "Responsive Web Design",
+      "section": "1. \ud83e\uddfe Survey Form",
+      "type": "unknown",
+      "origin": "FCC Survey Form.",
+      "id": "replicant-form"
+    },
+    {
+      "title": "What Kind of Metal Head Are You?",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/ByoZwao",
+      "certificate": "Responsive Web Design",
+      "section": "1. \ud83e\uddfe Survey Form",
+      "type": "main",
+      "origin": "FCC Survey Form.",
+      "id": "what-kind-of-metal-head-are-you"
+    },
+    {
+      "title": "CV",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/EaVvWwZ",
+      "certificate": "Responsive Web Design",
+      "section": "2. \ud83c\udfa8 Tribute Page",
+      "type": "unknown",
+      "origin": "FCC Tribute Page.",
+      "id": "cv"
+    },
+    {
+      "title": "Gallery",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/RNWZrBe",
+      "certificate": "Responsive Web Design",
+      "section": "2. \ud83c\udfa8 Tribute Page",
+      "type": "unknown",
+      "origin": "FCC Tribute Page.",
+      "id": "gallery"
+    },
+    {
+      "title": "Mondrian",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/pvjwYVY",
+      "certificate": "Responsive Web Design",
+      "section": "2. \ud83c\udfa8 Tribute Page",
+      "type": "unknown",
+      "origin": "FCC Tribute Page.",
+      "id": "mondrian"
+    },
+    {
+      "title": "Rodney Mullen \u2013 The Godfather of Skate",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/JoYWqdV",
+      "certificate": "Responsive Web Design",
+      "section": "2. \ud83c\udfa8 Tribute Page",
+      "type": "main",
+      "origin": "FCC Tribute Page.",
+      "id": "rodney-mullen-the-godfather-of-skate"
+    },
+    {
+      "title": "Guide",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/YPyEjwb",
+      "certificate": "Responsive Web Design",
+      "section": "3. \ud83d\udcda Technical Documentation Page",
+      "type": "unknown",
+      "origin": "FCC Technical Docs.",
+      "id": "guide"
+    },
+    {
+      "title": "Helmet",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/EaVQNQg",
+      "certificate": "Responsive Web Design",
+      "section": "3. \ud83d\udcda Technical Documentation Page",
+      "type": "unknown",
+      "origin": "FCC Technical Docs.",
+      "id": "helmet"
+    },
+    {
+      "title": "Holo-Chess",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/VYvxzeq",
+      "certificate": "Responsive Web Design",
+      "section": "3. \ud83d\udcda Technical Documentation Page",
+      "type": "unknown",
+      "origin": "FCC Technical Docs.",
+      "id": "holo-chess"
+    },
+    {
+      "title": "Yolked / Bear-Mode Docs",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/EaVRjgM",
+      "certificate": "Responsive Web Design",
+      "section": "3. \ud83d\udcda Technical Documentation Page",
+      "type": "main",
+      "origin": "FCC Technical Docs.",
+      "id": "yolked-bear-mode-docs"
+    },
+    {
+      "title": "Desert Scene",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/KwdxVLM",
+      "certificate": "Responsive Web Design",
+      "section": "4. \ud83d\udecd\ufe0f Product Landing Page",
+      "type": "unknown",
+      "origin": "FCC Landing Page.",
+      "id": "desert-scene"
+    },
+    {
+      "title": "Plumbus (Rick & Morty parody)",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/xbwayEj",
+      "certificate": "Responsive Web Design",
+      "section": "4. \ud83d\udecd\ufe0f Product Landing Page",
+      "type": "main",
+      "origin": "FCC Landing Page.",
+      "id": "plumbus-rick-morty-parody"
+    },
+    {
+      "title": "QOTSA Spread",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/raOZZYL",
+      "certificate": "Responsive Web Design",
+      "section": "4. \ud83d\udecd\ufe0f Product Landing Page",
+      "type": "unknown",
+      "origin": "FCC Landing Page.",
+      "id": "qotsa-spread"
+    },
+    {
+      "title": "Personal Portfolio Webpage",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/bNVOrxK",
+      "certificate": "Responsive Web Design",
+      "section": "5. \ud83d\udc64 Personal Portfolio Page",
+      "type": "main",
+      "origin": "FCC Portfolio Page.",
+      "id": "personal-portfolio-webpage"
+    },
+    {
+      "title": "Pumpkin",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/myeQwqe",
+      "certificate": "Responsive Web Design",
+      "section": "5. \ud83d\udc64 Personal Portfolio Page",
+      "type": "unknown",
+      "origin": "FCC Portfolio Page.",
+      "id": "pumpkin"
+    },
+    {
+      "title": "Record Spinner",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/JoYmJmo",
+      "certificate": "Responsive Web Design",
+      "section": "5. \ud83d\udc64 Personal Portfolio Page",
+      "type": "unknown",
+      "origin": "FCC Portfolio Page.",
+      "id": "record-spinner"
+    },
+    {
+      "title": "Calorie Counter",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/RNrwKgP",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "1. \ud83d\udd01 Palindrome Checker",
+      "type": "unknown",
+      "origin": "FCC Palindrome Checker",
+      "id": "calorie-counter"
+    },
+    {
+      "title": "Gradebook App",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/wBKZGym",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "1. \ud83d\udd01 Palindrome Checker",
+      "type": "unknown",
+      "origin": "FCC Palindrome Checker",
+      "id": "gradebook-app"
+    },
+    {
+      "title": "Lightbulb",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/XJXrMGp",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "1. \ud83d\udd01 Palindrome Checker",
+      "type": "unknown",
+      "origin": "FCC Palindrome Checker",
+      "id": "lightbulb"
+    },
+    {
+      "title": "Music Player",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/dPGGjRZ",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "1. \ud83d\udd01 Palindrome Checker",
+      "type": "unknown",
+      "origin": "FCC Palindrome Checker",
+      "id": "music-player"
+    },
+    {
+      "title": "Palindrome Checker",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/qEbZBaR",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "1. \ud83d\udd01 Palindrome Checker",
+      "type": "main",
+      "origin": "FCC Palindrome Checker",
+      "id": "palindrome-checker"
+    },
+    {
+      "title": "Pyramid Generator",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/qEOvBap",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "1. \ud83d\udd01 Palindrome Checker",
+      "type": "unknown",
+      "origin": "FCC Palindrome Checker",
+      "id": "pyramid-generator"
+    },
+    {
+      "title": "Rock Paper Scissors",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/bNENBBZ",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "1. \ud83d\udd01 Palindrome Checker",
+      "type": "unknown",
+      "origin": "FCC Palindrome Checker",
+      "id": "rock-paper-scissors"
+    },
+    {
+      "title": "RPG",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/jEbgZmy",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "1. \ud83d\udd01 Palindrome Checker",
+      "type": "unknown",
+      "origin": "FCC Palindrome Checker",
+      "id": "rpg"
+    },
+    {
+      "title": "Date Formatter",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/RNraPar",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "2. \ud83d\udd22 Roman Numeral Converter",
+      "type": "unknown",
+      "origin": "FCC Roman Numeral Converter",
+      "id": "date-formatter"
+    },
+    {
+      "title": "Decimal \u2192 Binary Converter",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/LEGWaPr",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "2. \ud83d\udd22 Roman Numeral Converter",
+      "type": "unknown",
+      "origin": "FCC Roman Numeral Converter",
+      "id": "decimal-binary-converter"
+    },
+    {
+      "title": "Montreal Canadiens Cards",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/RNrRjvQ",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "2. \ud83d\udd22 Roman Numeral Converter",
+      "type": "unknown",
+      "origin": "FCC Roman Numeral Converter",
+      "id": "montreal-canadiens-cards"
+    },
+    {
+      "title": "Playlist Maker",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/pvgNprM",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "2. \ud83d\udd22 Roman Numeral Converter",
+      "type": "unknown",
+      "origin": "FCC Roman Numeral Converter",
+      "id": "playlist-maker"
+    },
+    {
+      "title": "RomaNumeral Converter",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/ZYQeZBm",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "2. \ud83d\udd22 Roman Numeral Converter",
+      "type": "main",
+      "origin": "FCC Roman Numeral Converter",
+      "id": "romanumeral-converter"
+    },
+    {
+      "title": "Budget Tracker",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/LEGzPxY",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "3. \u260e\ufe0f Telephone Number Validator",
+      "type": "unknown",
+      "origin": "FCC Telephone Validator.",
+      "id": "budget-tracker"
+    },
+    {
+      "title": "CodePen",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/zxrPrEE",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "3. \u260e\ufe0f Telephone Number Validator",
+      "type": "main",
+      "origin": "FCC Telephone Validator.",
+      "id": "codepen"
+    },
+    {
+      "title": "D&D Dice Lab",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/PwZjgjZ",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "3. \u260e\ufe0f Telephone Number Validator",
+      "type": "unknown",
+      "origin": "FCC Telephone Validator.",
+      "id": "d-d-dice-lab"
+    },
+    {
+      "title": "Mixtape Sorter",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/XJXgdPX",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "3. \u260e\ufe0f Telephone Number Validator",
+      "type": "unknown",
+      "origin": "FCC Telephone Validator.",
+      "id": "mixtape-sorter"
+    },
+    {
+      "title": "Troll Detector",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/ogbWBPV",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "3. \u260e\ufe0f Telephone Number Validator",
+      "type": "unknown",
+      "origin": "FCC Telephone Validator.",
+      "id": "troll-detector"
+    },
+    {
+      "title": "CodePen",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/dPGJEWa",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "4. \ud83d\udcb0 Cash Register",
+      "type": "main",
+      "origin": "FCC Cash Register.",
+      "id": "codepen"
+    },
+    {
+      "title": "Lucky Roll",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/zxrpXaZ",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "4. \ud83d\udcb0 Cash Register",
+      "type": "unknown",
+      "origin": "FCC Cash Register.",
+      "id": "lucky-roll"
+    },
+    {
+      "title": "Mouse Maze",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/myVpmxJ",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "4. \ud83d\udcb0 Cash Register",
+      "type": "unknown",
+      "origin": "FCC Cash Register.",
+      "id": "mouse-maze"
+    },
+    {
+      "title": "Vans Shopping Cart",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/yyePoMO",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "4. \ud83d\udcb0 Cash Register",
+      "type": "unknown",
+      "origin": "FCC Cash Register.",
+      "id": "vans-shopping-cart"
+    },
+    {
+      "title": "Cyberpunk Media Fetch",
+      "url": "https://codepen.io/Mike-MacDonagh/pen/jEWZbRQ",
+      "certificate": "JavaScript Algorithms and Data Structures",
+      "section": "5. \ud83e\uddd9 RPG Creature Search App",
+      "type": "unknown",
+      "origin": "FCC final project (custom expansion).",
+      "id": "cyberpunk-media-fetch"
+    }
+  ]
+}
